@@ -20,7 +20,9 @@ Video Link : *[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www
     - You might need to install it with npm
 - [ganache](https://trufflesuite.com/ganache/)
   - You'll know you did it right if you can run the application and see:
-    <img width="100" alt="ganache-picture" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-picture.png">
+[<img width="100" alt="ganache-picture" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-picture.png">
+](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-picture.png)
+
   - You can alternatively use [ganache-cli](https://www.npmjs.com/package/ganache-cli) or [hardhat](https://hardhat.org/)
 
 ### Optional Gitpod
