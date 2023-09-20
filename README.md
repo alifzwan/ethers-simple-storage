@@ -19,9 +19,10 @@ Video Link : *[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www
     - `yarn --version` and get an output like: `x.x.x`
     - You might need to install it with npm
 - [ganache](https://trufflesuite.com/ganache/)
-  - You'll know you did it right if you can run the application and see:
+- You'll know you did it right if you can run the application and see:
 <img width="500" alt="ganache-picture" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/7ae47084-99f2-464d-854f-d140f6b92511">
-  - You can alternatively use [ganache-cli](https://www.npmjs.com/package/ganache-cli) or [hardhat](https://hardhat.org/)
+
+- You can alternatively use [ganache-cli](https://www.npmjs.com/package/ganache-cli) or [hardhat](https://hardhat.org/)
 
 ### Optional Gitpod
 
