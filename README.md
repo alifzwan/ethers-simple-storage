@@ -20,8 +20,7 @@ Video Link : *[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www
     - You might need to install it with npm
 - [ganache](https://trufflesuite.com/ganache/)
   - You'll know you did it right if you can run the application and see:
-    [<br>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-http.png)
-    <img src="./img/ganache-picture.png" alt="ganache" width="200"/>
+  [<img src="./image/ganache-http.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-key.png)
   - You can alternatively use [ganache-cli](https://www.npmjs.com/package/ganache-cli) or [hardhat](https://hardhat.org/)
 
 ### Optional Gitpod
@@ -59,7 +58,7 @@ If you like `typescript`, run `git checkout typescript` then run `yarn`
 
 2. Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` file similar to what's in `.env.example`.
 
-[<img src="./img/ganache-http.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-key.png)
+[<img src="./image/ganache-http.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-key.png)
 `.env` Example:
 
 ```
@@ -68,9 +67,8 @@ RPC_URL=http://0.0.0.0:8545
 
 3. Hit the key on one of the accounts, and copy the key you see and place it into your `.env` file, similar to what you see in `.env.example`.
 
-[<img src="./img/ganache-key.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-key.png)
-[<img src="./img/ganache-private-key.png" alt="ganache" width="500"/>
-](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-private-key.png)
+[<img src="./image/ganache-key.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-key.png)
+[<img src="./image/ganache-private-key.png" alt="ganache" width="500"/>](https://github.com/alifzwan/ethers-simple-storage/blob/main/images/ganache-private-key.png)
 `.env` Example:
 
 PRIVATE_KEY=11ee3108a03081fe260ecdc106554d09d9d1209bcafd46942b10e02943effc4a
