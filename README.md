@@ -66,7 +66,6 @@ RPC_URL=http://0.0.0.0:8545
 ```
 
 3. Hit the key on one of the accounts, and copy the key you see and place it into your `.env` file, similar to what you see in `.env.example`.
-4. 
 <img width="1195" alt="ganache-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/e7c404a4-18d6-432b-8c77-543de8cb9a86">
 <img width="693" alt="ganache-private-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/6ff5c83d-2120-4e74-afa2-e819b391ab4b">
 
