@@ -20,7 +20,7 @@ Video Link : *[⌨️ (05:30:42) Lesson 5: Ethers.js Simple Storage](https://www
     - You might need to install it with npm
 - [ganache](https://trufflesuite.com/ganache/)
   - You'll know you did it right if you can run the application and see:
-  - <img width="947" alt="ganache-picture" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/deef8f2a-61aa-4147-a030-8c18d2ccd5c3">
+  - <img width="500" alt="ganache-picture" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-picture.png">
   - You can alternatively use [ganache-cli](https://www.npmjs.com/package/ganache-cli) or [hardhat](https://hardhat.org/)
 
 ### Optional Gitpod
@@ -57,7 +57,7 @@ If you like `typescript`, run `git checkout typescript` then run `yarn`
 > Save the workspace. This way, next time you open ganache you can start the workspace you've created, otherwise you'll have to redo all the steps below.
 
 2. Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` file similar to what's in `.env.example`.
-   <img width="1188" alt="ganache-http" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/024dfd80-c0d4-420d-871a-43588136eaea">
+   <img width="1188" alt="ganache-http" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-http.png">
 
 `.env` Example:
 
@@ -66,8 +66,8 @@ RPC_URL=http://0.0.0.0:8545
 ```
 
 3. Hit the key on one of the accounts, and copy the key you see and place it into your `.env` file, similar to what you see in `.env.example`.
-<img width="1195" alt="ganache-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/e7c404a4-18d6-432b-8c77-543de8cb9a86">
-<img width="693" alt="ganache-private-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/6ff5c83d-2120-4e74-afa2-e819b391ab4b">
+<img width="500" alt="ganache-key" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-key.png">
+<img width="500" alt="ganache-private-key" src="https://github.com/alifzwan/ethers-simple-storage/images/ganache-private-key.png">
 
 `.env` Example:
 
