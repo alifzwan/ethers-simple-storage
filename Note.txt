@@ -1,0 +1,4 @@
+ SMART CONTRACT ENVIRONMENT
+
+ - Remember in remix we have a Javascript VM and Injected Web3 right?
+ - 
