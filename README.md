@@ -58,7 +58,7 @@ If you like `typescript`, run `git checkout typescript` then run `yarn`
 > Save the workspace. This way, next time you open ganache you can start the workspace you've created, otherwise you'll have to redo all the steps below.
 
 2. Copy the `RPC SERVER` sting in your ganache CLI, and place it into your `.env` file similar to what's in `.env.example`.
-   <img width="500" alt="ganache-http" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/02fbe014-6ee8-42b5-bf2a-265fae605e65">
+   <img width="1000" alt="ganache-http" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/02fbe014-6ee8-42b5-bf2a-265fae605e65">
 
 
 `.env` Example:
@@ -68,7 +68,7 @@ RPC_URL=http://0.0.0.0:8545
 ```
 
 3. Hit the key on one of the accounts, and copy the key you see and place it into your `.env` file, similar to what you see in `.env.example`.
-<img width="500" alt="ganache-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/da3915c9-cfb1-4ac1-8ca1-553fb37958b7">
+<img width="1000" alt="ganache-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/da3915c9-cfb1-4ac1-8ca1-553fb37958b7">
 <img width="500" alt="ganache-private-key" src="https://github.com/alifzwan/ethers-simple-storage/assets/63784108/8de9d683-d01f-42f4-8e5b-65d2f11f8ad0">
 
 
